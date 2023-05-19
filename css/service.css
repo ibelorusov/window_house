@@ -1,0 +1,64 @@
+.service-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 48px;
+}
+
+.service-list__card_1 {
+  background: url('../img/service/fon-service_1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 49%;
+  padding-top: 50px;
+  padding-bottom: 35px;
+  padding-left: 50px;
+  padding-right: 150px;
+}
+.service-list__card_2 {
+  background: url('../img/service/fon-service_2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 49%;
+  padding-top: 50px;
+  padding-bottom: 35px;
+  padding-left: 50px;
+  padding-right: 150px;
+}
+.service-list__card_3 {
+  background: url('../img/service/fon-service_3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 49%;
+  padding-top: 50px;
+  padding-bottom: 35px;
+  padding-left: 50px;
+  padding-right: 150px;
+}
+.service-list__card_4 {
+  background: url('../img/service/fon-service_4.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 49%;
+  padding-top: 50px;
+  padding-bottom: 35px;
+  padding-left: 50px;
+  padding-right: 150px;
+}
+
+.card__top {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.card__top-title {
+  margin-left: 20px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #2F2F51;
+}
+.card__description {
+  line-height: 19px;
+}
