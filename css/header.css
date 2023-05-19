@@ -1,0 +1,37 @@
+.header {
+  padding: 17px 0;
+}
+.header-wrapper {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navigation__list {
+  display: flex;
+}
+.navigation__item {
+  margin-right: 40px;
+}
+.navigation__item-link {
+  text-decoration: none;
+  color: black;
+}
+.button {
+  display: inline-flex;
+  margin-left: 13px;
+  align-items: center;
+  padding: 10px 19px 12px 14px;
+  color: white;
+  border: white;
+  border-radius: 3px;
+  font-weight: 700;
+}
+.button__orange {
+  background-color: #EF7F04;
+} 
+.button__purple {
+  background-color: #3B3A63;
+}
+.button-icon {
+  margin-right: 12px;
+}
