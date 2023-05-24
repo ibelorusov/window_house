@@ -1,3 +1,7 @@
+.service {
+  margin-bottom: 65px;
+}
+
 .service-list {
   display: flex;
   flex-wrap: wrap;
