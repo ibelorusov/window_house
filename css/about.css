@@ -1,0 +1,84 @@
+.about__nav-list {
+  display: flex;
+  justify-content: center;
+}
+.header__nav-list {
+  display: flex;
+  margin-bottom: 35px;
+}
+.about__list-content {
+  margin-right: 70px;
+  list-style: none;
+  font-size: 18px;
+}
+.about__list-link {
+  text-decoration: none;
+  color: #000000;
+}
+.about-text {
+  background-color:#ffffff;
+  padding-top: 64px;
+  padding-left: 50px;
+}
+.about-text p {
+  padding-right: 52px;
+  padding-left: 248px;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  margin-top: 31px;
+}
+
+.about-logo {
+  margin: 40px 0 0 50px;
+}
+
+.about-img, .about-text {
+  width: 50%;
+  }
+
+.about-description {
+  display: flex;
+  border-radius: 3px;
+  }
+
+.about-advantes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+  margin-top: 82px;
+}
+.about-advantes-item {
+  width: 30%;
+}
+.about-advantes-item {
+  display: flex;
+  align-items: start;
+  margin-bottom: 100px;
+}
+.about-advantes-inner {
+padding-left: 24px;  
+}
+.inner-title {
+  margin-bottom: 24px;
+}
+.advantes-button {
+  display: flex;
+  margin: 0 auto;
+  margin: -18px auto 0 auto;
+  align-items: center;
+}
+button {
+  padding: 10px 19px 12px 14px;
+  color: white;
+  border: white;
+  border-radius: 3px;
+  font-weight: 700;
+  background-color: #EF7F04;
+}
+button > svg {
+  margin-right: 13px;
+}
+.title-section {
+  margin-bottom: 40px;
+}
