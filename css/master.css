@@ -82,6 +82,7 @@ h1 {
 .main__advantes {
   display: flex;
   margin-top: 18px;
+  gap: 0 40px;
   
 }
 .main__title-white {
