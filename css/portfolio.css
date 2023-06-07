@@ -1,0 +1,20 @@
+.portfolio {
+  
+  background-color: white;
+  padding: 20px 0px 70px 0px;
+  margin: 70px 20px;
+}
+
+.title-section {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  color:#2F2F51;
+}
+
+.portfolio__list {
+  display:flex;
+  justify-content: center;
+  gap: 0px 45px;
+}
